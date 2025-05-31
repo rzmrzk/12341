@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Razmorozka — Telegram-канал</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-gray-100 via-blue-100 to-blue-200 min-h-screen flex items-center justify-center px-4 text-gray-900">
+  <div class="w-full max-w-md text-center p-8 bg-white/80 backdrop-blur-md shadow-2xl rounded-2xl border border-gray-200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" class="mx-auto w-16 h-16 mb-4" />
+    <h1 class="text-4xl font-bold mb-2">Razmorozka</h1>
+    <p class="text-sm text-gray-600 mb-6">
+      Эксперты по разблокировке банковских счетов и активов. Подпишитесь и получайте проверенную информацию.
+    </p>
+    <img src="https://images.unsplash.com/photo-1573164574396-9d4a3a2e2b1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Financial Theme" class="mx-auto mb-6 rounded-lg shadow-md" />
+    <a href="https://t.me/razmorozkacom" target="_blank" class="inline-block bg-blue-600 text-white text-base font-medium py-3 px-6 rounded-lg hover:bg-blue-700 transition">
+      Перейти в Telegram
+    </a>
+  </div>
+</body>
+</html>
